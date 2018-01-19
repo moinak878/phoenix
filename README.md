@@ -1,2 +1,4 @@
 # phoenix
-This is the beginning of making a chatting app with some super features! ;)
+A dustbin is a place where one dumps stuff.
+This is one dustbin..a dustbin of thoughts
+..of dusty ideas ..and CATS!
